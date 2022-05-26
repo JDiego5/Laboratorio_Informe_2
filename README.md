@@ -42,3 +42,44 @@ Una malla es el camino que forman 2 o más ramas de un circuito. Además en una 
 3. MATERIAL Y EQUIPO REQUERIDO
 
 ![image](https://user-images.githubusercontent.com/105887502/170506148-2a2c237f-745c-4c31-91c6-2b4f32f08e5e.png)
+
+4. PROCEDIMIENTO
+
+4.1 Implemente el circuito que se presenta en la figura 2.1.
+
+![image](https://user-images.githubusercontent.com/105887502/170507192-b9ff8c89-ac26-41ba-acb0-c5b8bc6a6127.png)
+
+4.2 Análisis del circuito .
+
+4.3 Mida cada una de las corrientes de malla.
+
+4.4 Simule en el software Thinkercad, el circuito de la figura 2.1, obteniendo los
+valores de las corrientes de malla.
+
+4.5  Resultados del circuito en físico
+
+4.6  Resultados obtenidos para el circuito de la figura 2.1
+
+5.  RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR
+
+6. VÍDEO
+
+7. CONCLUSIÓNES 
+
+- Al realizar el análisis completo del circuito se tiene que en total hay unicamente 3 mallas, es importante mencionar que no se deben de confundir a las mallas con las trayectorias, dado que una malla no posee ninguna rama en su interior, mientras que una trayectoria si puede tener 1 o más ramas en su interior.
+- Para realizar correctamente el cálculo de corrientes por el método de mallas es necesario asignar el sentido a las corrientes de forma que se pueda aplicar la ley de Kirchhoff de las tensiones en cada una de las mallas a tratar.
+- Los resultados obtenidos manualmente como en el simulador (TINKERCAD), varían en una mínima proporción debido a los factores utilizados en los cálculos, debido a esto se diría que nunca daremos con una medida exacta ni precisa solo una aproximación.
+
+
+8. BIBLIOGRÁFIA 
+
+- Bustamente, J. (18 de octubre de 2019). Obtenido de https://media.utp.edu.co/ingenieria-fisica/archivos/Practica_4Gen.pdf
+-  González, F. (02 de junio de 2018). Obtenido de https://nanopdf.com/download/tema-3-5b1270f411227_pdf
+-  Yáñez, E. (27 de marzo de 2012). Obtenido de https://es.slideshare.net/amerika_09/mallas-y-nodos
+-  F. (2021). Principios de circuitos eléctricos, 8Ed. Pearson.
+
+
+
+
+
+
