@@ -51,6 +51,8 @@ Una malla es el camino que forman 2 o más ramas de un circuito. Además en una 
 
 4.2 Análisis del circuito .
 
+![image](https://user-images.githubusercontent.com/105887502/171803816-902ccf16-c96c-4c27-9ead-0a1174830834.png)
+
 4.3 Mida cada una de las corrientes de malla.
 
 ![image](https://user-images.githubusercontent.com/105887502/171022487-497130fc-2ed5-4ca8-ae22-95bb80180fcf.png)
